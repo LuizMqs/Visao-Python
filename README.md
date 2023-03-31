@@ -1,9 +1,7 @@
 # Visão Python
 ## Sistema de detecção de armas em tempo real
 
-Este projeto foi desenvolvido pelo grupo Visão Python para apresentação no curso AlphaEdTech. 
-
-![](https://app.alphaedtech.org.br/assets/alpha-edtech-logo.f1d95ba9.svg)
+Este projeto foi desenvolvido pelo grupo Visão Python para apresentação no curso AlphaEdTech.
 
 
 ### Objetivo
@@ -56,7 +54,7 @@ Este projeto está licenciado sob a licença MIT. Para mais informações, consu
 ### Colaboradores
 Para saber mais sobre os membros, acesse nossos perfis do GitHub:
 
-- :woman_technologist: [Ana Dias](https://github.com/DiasKarol)
-- :man_technologist: [Carlos Oliveira](https://github.com/Oliveira-Carlos)
-- :man_technologist: [Geverson Fernandes](https://github.com/geversonfernandes/geversonfernandes)
-- :man_technologist: [Luiz Antônio](https://github.com/LuizMqs)
+:woman_technologist: [Ana Dias](https://github.com/DiasKarol)
+:man_technologist: [Carlos Oliveira](https://github.com/Oliveira-Carlos)
+:man_technologist: [Geverson Fernandes](https://github.com/geversonfernandes/geversonfernandes)
+:man_technologist: [Luiz Antônio](https://github.com/LuizMqs)
