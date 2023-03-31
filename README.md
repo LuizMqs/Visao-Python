@@ -25,7 +25,7 @@ A aplicação utiliza o algoritmo YOLOv5 para detecção de imagens de armas, ma
 - A interface do usuário foi desenvolvida com o Qt Designer e PyQt, possibilitando o uso de diversas funcionalidades no front-end.
 
 
-### Como rodar nosso executavel
+### Como rodar nosso código
 
 1. Clone o repositório em sua máquina local:
 ```console
