@@ -37,10 +37,10 @@ A aplicação utiliza o algoritmo YOLOv5 para detecção de imagens de armas, ma
 ```
 3. Execute o arquivo principal:
 ```console
-    .\dist\functionalities/functionalities.exe
+    python functionalities.py
 ```
 
-__Caso queira executar o arquivo diretamente, você pode seguir os seguintes passos:__
+__Caso queira executar o arquivo diretamente, sem nenhuma configuração ou dependência, basta você pode seguir os seguintes passos:__
 1. Baixe o projeto do driver: https://drive.google.com/file/d/1k_lKbiSgHRFRp2c1XQHQ0HQJgZTUiauq/view?usp=share_link
 2. Descompacte o projeto
 3. Vá até a pasta "dist" do projeto;
