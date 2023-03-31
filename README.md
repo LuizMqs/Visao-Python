@@ -11,7 +11,7 @@ A aplicação consiste em um sistema de detecção em tempo real para prevenir a
 
 ### Desafio
 
-O projeto passou o desafio "garantia de segurança física (safety)", um projeto que deve ser feito em grupo que combina Visão Computacional e Python. Com o intuito de almentar a segurança em áreas com pouco monitoramento, por meio do desenvolvimento de um sistema que analise imagens e/ou vídeos em busca de situações que coloque o ambiente ou alguem em risco ou perigo, o grupo deve empregar técnicas de processamento de imagens.
+O projeto passou o desafio "garantia de segurança física (safety)", um projeto que deve ser feito em grupo que combina Visão Computacional e Python. Com o intuito de aumentar a segurança em áreas com pouco monitoramento, por meio do desenvolvimento de um sistema que analise imagens e/ou vídeos em busca de situações que coloque o ambiente ou alguem em risco ou perigo, o grupo deve empregar técnicas de processamento de imagens.
 
 
 ### Funcionalidades 
@@ -25,7 +25,7 @@ A aplicação utiliza o algoritmo YOLOv5 para detecção de imagens de armas, ma
 - A interface do usuário foi desenvolvida com o Qt Designer e PyQt, possibilitando o uso de diversas funcionalidades no front-end.
 
 
-### Como rodar nosso código
+### Como rodar nosso executavel
 
 1. Clone o repositório em sua máquina local:
 ```console
@@ -40,7 +40,7 @@ A aplicação utiliza o algoritmo YOLOv5 para detecção de imagens de armas, ma
     python functionalities.py
 ```
 
-__Caso queira executar o arquivo diretamente, sem nenhuma configuração ou dependência, basta você pode seguir os seguintes passos:__
+__Caso queira executar o arquivo diretamente, sem nenhuma configuração ou dependência, você pode seguir os seguintes passos:__
 1. Baixe o projeto do driver: https://drive.google.com/file/d/1k_lKbiSgHRFRp2c1XQHQ0HQJgZTUiauq/view?usp=share_link
 2. Descompacte o projeto
 3. Vá até a pasta "dist" do projeto;
@@ -54,7 +54,7 @@ Este projeto está licenciado sob a licença MIT. Para mais informações, consu
 ### Colaboradores
 Para saber mais sobre os membros, acesse nossos perfis do GitHub:
 
-:woman_technologist: [Ana Dias](https://github.com/DiasKarol)
-:man_technologist: [Carlos Oliveira](https://github.com/Oliveira-Carlos)
-:man_technologist: [Geverson Fernandes](https://github.com/geversonfernandes/geversonfernandes)
+:woman_technologist: [Ana Dias](https://github.com/DiasKarol) <br>
+:man_technologist: [Carlos Oliveira](https://github.com/Oliveira-Carlos)<br>
+:man_technologist: [Geverson Fernandes](https://github.com/geversonfernandes/geversonfernandes)<br>
 :man_technologist: [Luiz Antônio](https://github.com/LuizMqs)
