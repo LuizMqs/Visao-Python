@@ -1,10 +1,10 @@
-<center>
 # Visão Python
 ## Sistema de detecção de armas em tempo real
 
 Este projeto foi desenvolvido pelo grupo Visão Python para apresentação no curso AlphaEdTech. 
+
 ![](https://app.alphaedtech.org.br/assets/alpha-edtech-logo.f1d95ba9.svg)
-</center>
+
 
 ### Objetivo
 
