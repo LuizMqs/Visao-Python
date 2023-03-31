@@ -41,7 +41,7 @@ A aplicação utiliza o algoritmo YOLOv5 para detecção de imagens de armas, ma
 ```
 
 __Caso queira executar o arquivo diretamente, sem nenhuma configuração ou dependência, você pode seguir os seguintes passos:__
-1. Baixe o projeto do driver: https://drive.google.com/file/d/1k_lKbiSgHRFRp2c1XQHQ0HQJgZTUiauq/view?usp=share_link
+1. Baixe o projeto do driver: https://drive.google.com/file/d/1ktw1pbHDVFN1wLrHRA3H4q-FpbN_ewP3/view?usp=share_link
 2. Descompacte o projeto
 3. Vá até a pasta "dist" do projeto;
 4. Abra a pasta "functionalities";
